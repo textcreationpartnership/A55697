@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Present convention a Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55697</idno>
+            <idno type="STC">Wing P3240</idno>
+            <idno type="STC">ESTC R9004</idno>
+            <idno type="EEBO-CITATION">13741740</idno>
+            <idno type="OCLC">ocm 13741740</idno>
+            <idno type="VID">101661</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101661)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Present convention a Parliament</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101661:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>THE Preſent Convention, A PARLIAMENT.</head>
+            <p n="1">I. THat the formality of the King's Writ of Summons is not ſo eſſential to an <hi>Engliſh</hi> Parliament, but that the Peers of the Realm, and the Commons, by their Repreſentatives duly Elected, may legally act as the great Council and repreſentative Body of the Nation, though not ſum<g ref="char:EOLhyphen"/>mon'd by the King, eſpecially when the circumſtances of the time are ſuch, that ſuch Summons cannot be had, will (I hope) appear by theſe following Obſervations.</p>
+            <p>
+               <hi>Firſt,</hi> The <hi>Saxon</hi> Government was tranſplanted hither out of <hi>Germany</hi> where the meeting of the <hi>Saxons</hi> in ſuch Aſſemblies was at certain fixed times; <hi>viz.</hi> at the New and Full Moon. But after their Tranſ<g ref="char:EOLhyphen"/>migration hither, Religion changing, other things changed with it; and the times for their publick Aſſemblies, in conformity to the great Solemnities celebrated by Chriſtians, came to be changed to the Peaſts of <hi>Eaſter, Pentecoſt,</hi> and the <hi>Nativity.</hi> The lower we come down in Story, the ſeldomer we find theſe General Aſſemblies to have been held; and ſometimes (even very anciently) when upon extraordinary occaſions, they met out of courſe, a <hi>Precept,</hi> an <hi>Edict,</hi> or <hi>Sanction</hi> is mentioned to have Iſſu<g ref="char:EOLhyphen"/>ed from the King: But the Times, and the very place of their ordinary Meeting having been certain, and determined in the very firſt and eldeſt times that we meet with any mention of ſuch Aſſemblies, which times are as ancient as any Memory of the Nation if ſelf; hence I inferr, that no Summons from the King can be thought to have been neceſſary in thoſe days, becauſe it was altogether needleſs.</p>
+            <p>
+               <hi>Secondly,</hi> The Succeſſion to the Crown did not in thoſe days, nor till of late years, run in a courſe of Lineal Succeſſion by right of Inheri<g ref="char:EOLhyphen"/>tance: But upon the death of a Prince, thoſe Perſons of the Realm that Compoſed the then Parliament, Aſſembled in order to the chooſing
+<pb n="2" facs="tcp:101661:2"/>
+               <!-- PDF PAGE 8 -->of another. That the Kingdom was then Elective, though one or other of the Royal Blood was always choſen, but the next in Lineal Succeſſion very ſeldom, is evident from the Genealogies of the <hi>Saxon</hi> Kings, from an old Law made at <hi>Calchuyth,</hi> appointing how, and by whom Kings ſhall be choſen; and from many expreſs and parti<g ref="char:EOLhyphen"/>cular Accounts given by our old Hiſtorians, of ſuch Aſſemblies held for Electing of Kings. Now ſuch Aſſemblies could not be Summon'd by any King; and yet in conjunction with the King that themſelves ſet up, they made Laws, binding the King and all the Realm.</p>
+            <p>
+               <hi>Thirdly,</hi> After the Death of King <hi>William Rufus, Robert,</hi> his Elder Brother, being then in the <hi>Holy Land, Henry,</hi> the youngeſt Son of King <hi>William</hi> the Firſt, procur'd an Aſſembly of the Clergy and People of <hi>England,</hi> to whom he made large promiſes of his good Government, in caſe they would accept of him for their King; and they agreeing, That if he would reſtore to them the Laws of King <hi>Edward the Confeſſor,</hi> then they would conſent to make him their King: He ſwore that he would do ſo, and alſo free them from ſome oppreſſions, which the Nation had groan'd under in his Brothers and his Fathers time. Hereupon they choſe him King, and the Biſhop of <hi>London,</hi> and the Archbiſhop of <hi>York,</hi> ſet the Crown upon his Head: Which being done, a Con<g ref="char:EOLhyphen"/>firmation of the <hi>Engliſh</hi> Liberties paſs'd the Royal Aſſent in that Aſſembly, the ſame in ſubſtance, though not ſo large as King <hi>John</hi>'s, and King <hi>Henry</hi> the Third's <hi>Magna Charta's</hi> afterwards were.</p>
+            <p>
+               <hi>Fourthly,</hi> After that King's Death, in ſuch another Parliament, King <hi>Stephen</hi> was Elected, and <hi>Mawd</hi> the Empreſs put by, though not without ſome ſtain of perfidiouſneſs upon all thoſe, and <hi>Stephen</hi> himſelf eſpecially, who had ſworn in ther Fathers Life-time, to ac<g ref="char:EOLhyphen"/>knowledge her for their Sovereign after his deceaſe.</p>
+            <p>
+               <hi>Fifthly,</hi> In King <hi>Richard</hi> the Firſt's time, the King being abſent in the <hi>Holy Land,</hi> and the Biſhop of <hi>Ely</hi> then his Chancellor, being Re<g ref="char:EOLhyphen"/>gent of the Kingdom in his Abſence, whoſe Government was intolerable to the People for his Inſolence and manifold Oppreſſions, a Parliament was convened at <hi>London,</hi> at the Inſtance of Earl <hi>John,</hi> the Kings Bro<g ref="char:EOLhyphen"/>ther, to treat of the great and weighty affairs of the King and King<g ref="char:EOLhyphen"/>dom; in which Parliament this ſame Regent was depos'd from his Government, and another ſet up, <hi>viz.</hi> the Arch-Biſhop of <hi>Roan</hi> in his ſtead. This Aſſembly was not conven'd by the King, who was then in <hi>Palaeſtine,</hi> nor by any Authority deriv'd from him, for then the Regent and Chancellor muſt have call'd them together; but they met, as the Hiſtorian ſaies expreſly, at the Inſtance of Earl <hi>John.</hi> And yet, in the Kings Abſence, they took upon them to ſettle the pub<g ref="char:EOLhyphen"/>lick Affairs of the Nation without Him.</p>
+            <pb n="3" facs="tcp:101661:2"/>
+            <!-- PDF PAGE 8 -->
+            <p>
+               <hi>Sixthly,</hi> When King <hi>Henry</hi> the 3 <abbr>
+                  <hi>d.</hi>
+               </abbr> died, his Eldeſt Son, Prince <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> was then in the <hi>Holy Land,</hi> and came not Home till within the third Year of his Reign; yet, immediately upon the Fathers Death, all the Prelates and Nobles, and four Knights for every Shire, and four Burgeſſes for every Borough, Aſſembled together in a great Coun<g ref="char:EOLhyphen"/>cil, and ſetled the Government till the King ſhould return: Made a new Seal, and a Chancellor, <hi>&amp;c.</hi>
+            </p>
+            <p>I inferr from what has been ſaid, that Writs of Summons are not ſo Eſſential to the being of Parliaments, but that the People of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> eſpecially at a time when they cannot be had, may by Law, and according to our Old Conſtitution Aſſemble together in a Parlia<g ref="char:EOLhyphen"/>mentary way without them, to treat of and ſettle the Publick Af<g ref="char:EOLhyphen"/>fairs of the Nation. And that, if ſuch Aſſemblies ſo conven'd, find the Throne Vacant, they may proceed not only to ſet up a Prince, but with the Aſſent and Concurrence of ſuch Prince, to tranſact all Publick buſineſs whatſoever, without a new Election; they having as great Authority as the People of <hi>England</hi> can deligate to their Re<g ref="char:EOLhyphen"/>preſentatives.</p>
+            <p n="2">II. The Acts of Parliaments not Formal nor Legal in all their Circumſtances, are yet binding to the Nation ſo long as they con<g ref="char:EOLhyphen"/>tinue in Force, and not liable to be queſtioned as to the Validity of them, but in ſubſequent Parliaments.</p>
+            <p>
+               <hi>Firſt,</hi> The two <hi>Spencers, Temp. Edvardi Secundi,</hi> were baniſhedby Act of Parliament, and that Act of Parliament repealed by <hi>Dures &amp; Force;</hi> yet was the Act of Repeal a good Law, till it was Annull'd 1 <hi>Ed.</hi> 3.</p>
+            <p>
+               <hi>Secondly,</hi> Some Statutes of 11 <hi>Rich.</hi> 2. and attainders thereup<g ref="char:EOLhyphen"/>on were Repealed in a Parliament held, <hi>Ann.</hi> 21. of that King, which Parliament was procur'd by fore'd Elections; and yet the Repeal ſtood good, till ſuch time as in 1 <hi>Henry</hi> 4. the Statutes of 11 <hi>Rich.</hi> 2. were revived and appointed to be firmly held and kept.</p>
+            <p>
+               <hi>Thirdly,</hi> The Parliament of 1 <hi>Hen.</hi> 4. conſiſted of the ſame Knights, Citizens and Burgeſſes that had ſerved in the then laſt diſ<g ref="char:EOLhyphen"/>ſolved Parliament, and thoſe Perſons were by the Kings Writs to the Sheriffs commanded to be returned, and yet they paſſed Acts, and their Acts tho never confirmed, continue to be Laws at this day.</p>
+            <p>
+               <hi>Fourthly,</hi> Queen <hi>Mary</hi>'s Parliament that reſtored the Popes Supremacy, was notoriouſly known to be pack'd, inſomuch that it was debated in Queen <hi>Elizabeth's</hi> time, whether or no to declare all their Acts void by Act of Parliament. That courſe was then upon ſome pruden<g ref="char:EOLhyphen"/>tial conſiderations declined; and therefore the Acts of that Parlia<g ref="char:EOLhyphen"/>ment, not ſince repealed, continue binding Laws to this day.</p>
+            <pb n="4" facs="tcp:101661:3"/>
+            <!-- PDF PAGE 9 -->
+            <p>The reaſon of all this, is, Becauſe no inferior Courts have Autho<g ref="char:EOLhyphen"/>rity to judge of the Validity or Invalidity of the Acts of ſuch Aſ<g ref="char:EOLhyphen"/>ſemblies, as have but ſo much as a colour of Parliamentary Autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p>The Acts of ſuch Aſſemblies being Entred upon the Parliament-Roll, and certified before the Judges of <hi>Weſtminſter-Hall</hi> as Acts of Parliament, are concluſive and binding to them; becauſe Parlia<g ref="char:EOLhyphen"/>ments are the only Judges of the Imperfections, Invalidities, Ille<g ref="char:EOLhyphen"/>galities, <hi>&amp;c.</hi> of one another.</p>
+            <p>The Parliament that call'd in King <hi>Charles</hi> the Second, was not aſ<g ref="char:EOLhyphen"/>ſembled by the Kings Writ, and yet they made Acts, and the Roy<g ref="char:EOLhyphen"/>al aſſent was had to them; many of which indeed were afterwards confirmed, but not all, and thoſe that had no Confirmation, are un<g ref="char:EOLhyphen"/>doubted Acts of Parliament without it, and have ever ſince obtained as ſuch.</p>
+            <p>Hence I Inferr that the preſent Convention, may, if they pleaſe, aſſume to themſelves a Parliamentary Power, and in conjunction with ſuch King or Queen as they ſhall declare, may give Laws to the Kingdom as a legal Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
